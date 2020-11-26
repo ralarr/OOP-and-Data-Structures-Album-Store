@@ -1,0 +1,17 @@
+I
+H 1000
+H 2000
+H 8000
+B 8000 M Piece of Mind
+B 1000 M Peace Sells
+B 2000 R Something for Everybody
+B 8888 R Abbey Road
+B 1000 M Cowboys from Hell
+B 2000 M Halo of Blood
+B 8888 R Elvis is Back!
+B 8888 M Youthanasia
+R 8000 M Piece of Mind
+H 1000
+H 2000
+H 8000
+I

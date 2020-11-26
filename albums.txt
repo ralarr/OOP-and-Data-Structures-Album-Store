@@ -1,0 +1,31 @@
+C 10 Ludwig van Beethoven, Symphony No 5, 1808
+C 10 Richard Wagner, The Valkyrie: Ride of the Valkyries, 1870
+C 10 Antonio Vivaldi, The Four Seasons, 1725
+R 10 Elvis Presley, Elvis is Back!, 1960
+M 10 Iron Maiden, Killers, 1981
+M 10 Megadeth, Youthanasia, 1994
+R 10 The Beatles, Abbey Road, 1969
+M 10 Pantera, Cowboys from Hell, 1990
+M 10 Metallica, Load, 1994
+M 10 Motorhead, Ace of Spades, 1980
+R 10 The Zombies, Time of the Season, 1968
+R 10 The Doors, The Soft Parade, 1967
+M 10 Children of Bodom, Halo of Blood, 2013
+M 10 Megadeth, Peace Sells, 1987
+C 10 Wolfgang Amadeus Mozart, Requiem, 1791
+C 10 Johannes Brahms, Hungarian Dance, 1879
+C 10 Frederic Chopin, Nocturne No. 2, 1830
+C 10 Giuseppe Verdi, Nabucco, 1841
+C 10 George Frideric Handel, The Messiah, 1741
+C 10 Charles Gounod, Ave Maria, 1853
+C 10 Stanley Myers, Cavatina, 1970
+C 10 Stanley Myers, Cavatina, 1970
+C 10 Johann Sebastian Bach, Brandenburg Concerto, 1721
+C 10 Jean Sibelius, Finlandia, 1899
+C 10 Jean Sibelius, Finlandia, 1899
+C 10 Jean Sibelius, Finlandia, 1899
+C 10 Georges Bizet, L'Arlesienne Suite, 1872
+R 10 Elvis Presley, Something for Everybody, 1961
+M 10 Iron Maiden, Piece of Mind, 1983
+M 10 Megadeth, The world Needs a Hero, 2001
+M 40 Iron Maiden, Powerslave, 1984
